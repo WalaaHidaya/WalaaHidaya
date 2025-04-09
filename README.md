@@ -2,11 +2,11 @@
   
 -💻 I'm an **AI Enthusiast** working on **Machine Learning & Deep Learning projects**
   
--💻 Proficient in **Programming**: C, C++, Java, Python
+-💻 Proficient in **Programming**: C, C#, Java, Python
   
--🌐 Experienced in **Web Development**: HTML, CSS, JavaScript, Bootstrap, PHP
+-🌐 Experienced in **Web Development**: HTML, CSS, JavaScript, Bootstrap, .NET, Php
   
--💾 Skilled in **Database Management**: MySQL
+-💾 Skilled in **Database Management**: MySQL, MongoDB
   
 -⚡ Fun fact **Turning coding challenges into learning adventures, one bug at a time.**
 
