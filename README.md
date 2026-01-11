@@ -1,8 +1,8 @@
 -👩‍💻 **Data Science Engineering Student** at Tekup University
   
 -💻 I'm an **AI Enthusiast** working on **Machine Learning & Deep Learning projects**
-  
--💻 Proficient in **Programming**: C, C#, Java, Python
+
+-💻 Proficient in **Programming**: C, C#, Java, Python, R
   
 -🌐 Experienced in **Web Development**: HTML, CSS, JavaScript, Bootstrap, .NET, Php
   
